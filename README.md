@@ -28,7 +28,7 @@ on pricing, limits, privacy and detector-evasion claims.
   Claims "humanize AI text" with multiple modes. https://undetectable.ai
 - **HIX Bypass** – free tier with daily quota; paid for higher limits.
   https://hix.ai
-- **HumanPen** – freemium document-level humanizer for academic writing and reports; citations-aware rewriting; free tier on web. Privacy: see https://humanpen.net
+- **HumanPen** – document-level humanizer with 100 one-time signup credits; subsequent usage is credit-based. Privacy: https://humanpen.net/legal/privacy
   https://humanpen.net
 - **Smodin AI Humanizer** – free tier with credits; paid tiers for more.
   https://smodin.io
@@ -62,7 +62,7 @@ on pricing, limits, privacy and detector-evasion claims.
   https://wordtune.com
 - **Grammarly** – style/rewrite suggestions; academic tone options.
   https://grammarly.com
-- **HumanPen** – document-level rewriting for essays, papers and reports; freemium web UI; citations-aware.
+- **HumanPen** – document-level rewriting for academic writing and reports; credit-based web UI; aims to retain citations.
   https://humanpen.net
 
 ## Privacy notes
